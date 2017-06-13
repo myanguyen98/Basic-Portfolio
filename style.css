@@ -1,0 +1,26 @@
+body {
+	margin:0 auto;
+}
+.container {
+	display: flex
+}
+.block1 {
+	margin-left: 20px; 
+	margin-right: 50px; 
+	margin-top: 38px;
+	padding:20px;
+}
+.block2 {
+	margin-right: 50px; 
+	margin-top: 49px
+}
+.block3 {
+	margin-right: 20px; 
+	margin-top: 38px
+}
+h1 {
+	text-align: center; 
+	background-color: #333333; 
+	color:white; 
+	margin:0; 
+	padding:20px 0; 
