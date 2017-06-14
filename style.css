@@ -1,5 +1,6 @@
 body {
 	margin:0 auto;
+	background-image: url(assets/images/pink_rice.png);
 }
 .container {
 	display: flex
@@ -12,15 +13,38 @@ body {
 }
 .block2 {
 	margin-right: 50px; 
-	margin-top: 49px
+	margin-top: 49px;
+	
 }
 .block3 {
 	margin-right: 20px; 
-	margin-top: 38px
+	margin-top: 38px;
+	border: solid;
+	border-color:white;
+	padding: 20px;
+	border-width: 9px;
+	border-style:double;
+	
 }
+
 h1 {
-	text-align: center; 
-	background-color: #333333; 
+	text-align: left; 
+	background-color: #93bbc0; 
 	color:white; 
 	margin:0; 
-	padding:20px 0; 
+	padding:20px;
+}
+	
+.internal_links {
+			text-align: right;
+}
+footer{
+	text-align: center;
+	background-color:#93bbc0;
+	margin:0;
+	padding:10px; 
+}
+h2{
+	padding: 15px;
+}
+
